@@ -1,0 +1,11 @@
+{
+  "sourceVersion": "11",
+  "addons": [
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-gradle.git"
+    }
+  ]
+}
